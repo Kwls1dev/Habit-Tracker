@@ -4,6 +4,7 @@ This project will integrate a database with .json. Will track your habits how do
 
 
 # Requirements
-To run this project will be necessary to install flask with teh following PIP:
+To run this project will be necessary Python 3 and to install flask.
+Flask module can be installed with the following command on your terminal:
 
 "pip install flask"
